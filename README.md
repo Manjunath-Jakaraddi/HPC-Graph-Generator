@@ -4,7 +4,7 @@
 	2. argv[2] => Number of threads
 * Change the range of Input Size in the data Section of the following files
 	1. script.sh
-	2. python.sh
+	2. graph_generator.sh
 
 # Pre-Requisites
 * Python Libraries
